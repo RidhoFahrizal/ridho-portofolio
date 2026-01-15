@@ -1,5 +1,5 @@
 <template>
     <div>
-        this is portfolio
+        this is project
     </div>
 </template>

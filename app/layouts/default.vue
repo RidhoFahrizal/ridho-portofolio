@@ -1,18 +1,20 @@
 <template>
-    <div class="min-h-screen bg-gray-950 text-gray-200 font-sans selection:bg-purple-500 selection:text-white">
+    <div
+        class="flex flex-col min-h-screen bg-[#E6DADA] text-black font-sans selection:bg-purple-500 selection:text-black overflow-x-hidden">
 
-        <div class="max-w-6xl mx-auto px-6">
+        <div class="w-full max-w-screen-sm mx-auto flex-grow flex flex-col px-4">
 
             <AppNavbar />
 
-            <main class="py-10">
+            <main class="flex-grow py-10">
                 <slot />
             </main>
 
-            <footer class="py-10 text-center text-sm text-gray-500 border-t border-gray-800">
+            <footer class="py-10 text-center text-md text-black border-t border-black">
                 © 2026 Ridho Portfolio
             </footer>
-
         </div>
+
+       
     </div>
 </template>
