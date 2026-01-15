@@ -14,7 +14,5 @@
                 © 2026 Ridho Portfolio
             </footer>
         </div>
-
-       
     </div>
 </template>
