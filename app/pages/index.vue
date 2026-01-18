@@ -9,7 +9,7 @@
             
 
 
-            <p class="py-12 font lg:text-xl  md:text-sm sm:text-xs xs:text-2xs"> I’m an Informatics Engineering student with a strong drive to solve real problems
+            <p class="py-12 font lg:text-xl  lg:text-md sm:text-xs xs:text-2xs"> I’m an Informatics Engineering student with a strong drive to solve real problems
                 through software. I enjoy turning complex challenges into clear, practical
                 solutions—whetherthrough clean backend architecture, efficient data processing, or thoughtful product
                 design.
